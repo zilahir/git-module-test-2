@@ -2,7 +2,7 @@
 
 # Section 1
 
-This is just a tesit
+This is just a test
 
 # Submodule
 
